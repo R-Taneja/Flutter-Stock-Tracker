@@ -1,0 +1,40 @@
+name: stocked
+description: A minimalist stock price tracker.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  http: ^0.12.0+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Black.ttf
+          weight: 800
+        - asset: fonts/Poppins-Bold.ttf
+          weight: 600
+        - asset: fonts/Poppins-ExtraBold.ttf
+          weight: 700
+        - asset: fonts/Poppins-ExtraLight.ttf
+          weight: 100
+        - asset: fonts/Poppins-Light.ttf
+          weight: 200
+        - asset: fonts/Poppins-Medium.ttf
+          weight: 400
+        - asset: fonts/Poppins-Regular.ttf
+          weight: 300
+        - asset: fonts/Poppins-SemiBold.ttf
+          weight: 500
