@@ -15,5 +15,6 @@ A minimalist cross-platform stock price tracker built with Flutter.
 11. Follow [these instructions](https://flutter.dev/docs/get-started/test-drive) (under the "Run the app" header) to run the app on a virtual device.
 
 ## Screenshots
-![screenshot1](https://user-images.githubusercontent.com/47066511/79512918-86587e80-8010-11ea-9d2c-344339b01d13.png)
-![screenshot2](https://user-images.githubusercontent.com/47066511/79512920-86f11500-8010-11ea-8f59-4d4a08a98e07.png)
+
+<img src="https://user-images.githubusercontent.com/47066511/79512918-86587e80-8010-11ea-9d2c-344339b01d13.png" width="300" alt="1">
+<img src="https://user-images.githubusercontent.com/47066511/79512920-86f11500-8010-11ea-8f59-4d4a08a98e07.png" width="300" alt="1">
