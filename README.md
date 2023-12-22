@@ -11,7 +11,7 @@ A minimalist cross-platform stock price tracker built with Flutter.
 7. Navigate to the directory where you cloned the project in step 4 (usually in ~/AndroidStudioProjects) and open the project folder.
 8. When Android Studio opens the project, click "Get dependencies" or "Pub get" and wait for it to load.
 9. Create an [AlphaVantage account](https://www.alphavantage.co/support/#api-key) and copy the API key listed there.
-10. At the top of the 'stocked.dart' file in Android Studio (clima > lib), paste your API key inside the quotation marks (line 8) and save the file.
+10. At the top of the 'stocked.dart' file in Android Studio (stocked > lib), paste your API key inside the quotation marks (line 8) and save the file.
 11. Follow [these instructions](https://flutter.dev/docs/get-started/test-drive) (under the "Run the app" header) to run the app on a virtual device.
 
 ## Screenshots
